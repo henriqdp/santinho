@@ -1,0 +1,109 @@
+---
+AC:
+  id: '1'
+  name: Acre
+  initials: AC
+AL:
+  id: '2'
+  name: Alagoas
+  initials: AL
+AM:
+  id: '3'
+  name: Amazonas
+  initials: AM
+AP:
+  id: '4'
+  name: Amapá
+  initials: AP
+BA:
+  id: '5'
+  name: Bahia
+  initials: BA
+CE:
+  id: '6'
+  name: Ceará
+  initials: CE
+DF:
+  id: '7'
+  name: Distrito Federal
+  initials: DF
+ES:
+  id: '8'
+  name: Espírito Santo
+  initials: ES
+GO:
+  id: '9'
+  name: Goiás
+  initials: GO
+MA:
+  id: '10'
+  name: Maranhão
+  initials: MA
+MG:
+  id: '11'
+  name: Minas Gerais
+  initials: MG
+MS:
+  id: '12'
+  name: Mato Grosso do Sul
+  initials: MS
+MT:
+  id: '13'
+  name: Mato Grosso
+  initials: MT
+PA:
+  id: '14'
+  name: Pará
+  initials: PA
+PB:
+  id: '15'
+  name: Paraíba
+  initials: PB
+PE:
+  id: '16'
+  name: Pernambuco
+  initials: PE
+PI:
+  id: '17'
+  name: Piauí
+  initials: PI
+PR:
+  id: '18'
+  name: Paraná
+  initials: PR
+RJ:
+  id: '19'
+  name: Rio de Janeiro
+  initials: RJ
+RN:
+  id: '20'
+  name: Rio Grande do Norte
+  initials: RN
+RO:
+  id: '21'
+  name: Rondônia
+  initials: RO
+RR:
+  id: '22'
+  name: Roraima
+  initials: RR
+RS:
+  id: '23'
+  name: Rio Grande do Sul
+  initials: RS
+SC:
+  id: '24'
+  name: Santa Catarina
+  initials: SC
+SE:
+  id: '25'
+  name: Sergipe
+  initials: SE
+SP:
+  id: '26'
+  name: São Paulo
+  initials: SP
+TO:
+  id: '27'
+  name: Tocantins
+  initials: TO
