@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20170923034331) do
+ActiveRecord::Schema.define(version: 20170924195530) do
 
   create_table "candidates", force: :cascade do |t|
     t.integer "voter_id"
@@ -56,6 +56,7 @@ ActiveRecord::Schema.define(version: 20170923034331) do
     t.integer "city_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.boolean "is_admin"
     t.index ["email"], name: "index_voters_on_email", unique: true
     t.index ["token"], name: "index_voters_on_token", unique: true
   end

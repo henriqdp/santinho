@@ -31,3 +31,7 @@
 
 en:
   hello: "Hello world"
+  errors:
+    messages:
+      blank: "Não pode estar em branco"
+      required: "Campo obrigatório"
