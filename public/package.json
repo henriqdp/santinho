@@ -1,0 +1,19 @@
+{
+  "name": "santinho",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/henriqdp/santinho.git"
+  },
+  "author": "Henrique de Paula Lopes",
+  "license": "ISC",
+  "dependencies": {
+    "element-ui": "^1.4.5",
+    "vue": "^2.4.4"
+  }
+}
